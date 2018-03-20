@@ -1,4 +1,5 @@
 n=int(input("enter the no:"))
+n<=1000
 temp=n
 new=0
 while(n>0):
